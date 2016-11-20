@@ -22,9 +22,9 @@ By default, it will generate a file structure similiar to:
 Getting Started
 ---------------
 
-Currently, the easiest way is to download the file directly from bitbucket.org:
+Currently, the easiest way is to download the file directly from github.com:
 
-    sudo wget -O /usr/bin/shotwell-export https://bitbucket.org/robertkoehler/shotwell-export/raw/tip/shotwell-export.py
+    sudo wget -O /usr/bin/shotwell-export https://raw.githubusercontent.com/emil-genov/shotwell-export/master/shotwell-export.py
     sudo chmod a+x /usr/bin/shotwell-export
 
 If you want better date support, download this EXIF library. This is optional.
